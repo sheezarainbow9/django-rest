@@ -5,8 +5,8 @@
    <img src="https://img.shields.io/badge/HTML-HTML5-orange?label=HTML&message=HTML5&color=orange&style=for-the-badge&logo=HTML5"/>
    <img src="https://img.shields.io/badge/CSS-CSS3-informational?label=CSS&message=CSS3&color=informational&style=for-the-badge&logo=CSS3"/>
     <img src="https://img.shields.io/badge/DJANGO-4.1.6-green?label=DJANGO&message=4.1.6&color=informational&style=for-the-badge&logo=DJANGO"/>
-   <img src="https://img.shields.io/badge/DJANGO%20REST-FRAMEWORK-red
-?label=DJANGO-REST&message=FRAMEWORK&color=red&style=for-the-badge&logo=DJANGO"/>
+   <img src="https://img.shields.io/badge/REST-FRAMEWORK-red
+?label=REST&message=FRAMEWORK&color=red&style=for-the-badge&logo=DJANGO"/>
 </p>
 
 
