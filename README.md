@@ -6,7 +6,7 @@
    <img src="https://img.shields.io/badge/CSS-CSS3-informational?label=CSS&message=CSS3&color=informational&style=for-the-badge&logo=CSS3"/>
     <img src="https://img.shields.io/badge/DJANGO-4.1.6-green?label=DJANGO&message=4.1.6&color=informational&style=for-the-badge&logo=DJANGO"/>
    <img src="https://img.shields.io/badge/DJANGO%20REST-FRAMEWORK-red
-?label=DJANGO%20REST&message=FRAMEWORK&color=red&style=for-the-badge&logo=REST"/>
+?label=DJANGO-REST&message=FRAMEWORK&color=red&style=for-the-badge&logo=DJANGO"/>
 </p>
 
 
